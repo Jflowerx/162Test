@@ -16,4 +16,4 @@ Five things that will be challenging
 
 Repo link
 ----    
-* https://Jflowerx.github.io/162Test/
+* https://github.com/Jflowerx/162Test.git
